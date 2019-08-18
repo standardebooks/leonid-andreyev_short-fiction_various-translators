@@ -38,29 +38,33 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
 			LONG_DESCRIPTION
 		]]></meta>
 		<dc:language>en-GB</dc:language>
+		<!-- The Crushed Flower and Other Stories -->
 		<dc:source>https://www.gutenberg.org/ebooks/5779</dc:source>
+		<dc:source>https://archive.org/details/cu31924026685085</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leonid-andreyev_short-fiction_herman-bernstein</meta>
 		<dc:creator id="author">Leonid Andreyev</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Andreyev, Leonid</meta>
+		<meta property="alternate-script" refines="#author" xml:lang="ru">Леони́д Никола́евич Андре́ев</meta>
+		<meta property="se:name.person.full-name" refines="#author">Leonid Nikolaievich Andreyev</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Leonid_Andreyev</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80040433</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Herman Bernstein</dc:contributor>
-		<meta property="file-as" refines="#translator">TRANSLATOR_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Herman_Bernstein</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">TRANSLATOR_NACOAF_URL</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
+		<dc:contributor id="translator-1">Herman Bernstein</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Bernstein, Herman</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Herman_Bernstein</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/no00070836</meta>
+		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
@@ -73,9 +77,9 @@
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
