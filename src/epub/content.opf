@@ -45,6 +45,9 @@
 			LONG_DESCRIPTION
 		]]></meta>
 		<dc:language>en-GB</dc:language>
+		<!-- The Seven Who Were Hanged -->
+		<dc:source>https://www.gutenberg.org/ebooks/6722</dc:source>
+		<dc:source>https://archive.org/details/cu31924026685812</dc:source>
 		<!-- The Crushed Flower and Other Stories -->
 		<dc:source>https://www.gutenberg.org/ebooks/5779</dc:source>
 		<dc:source>https://archive.org/details/cu31924026685085</dc:source>
@@ -71,12 +74,15 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Jarrod Newton</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-1">Eric Eldred</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Eldred, Eric</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-2">Jarrod Newton</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Newton, Jarrod</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
