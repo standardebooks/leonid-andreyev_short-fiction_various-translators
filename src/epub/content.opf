@@ -68,7 +68,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/leonid-andreyev_short-fiction_herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-russian-review_archibald-j-wolfe</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/leonid-andreyev_short-fiction_herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-rus</meta>
 		<dc:creator id="author">Leonid Andreyev</dc:creator>
 		<meta property="file-as" refines="#author">Andreyev, Leonid</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Леони́д Никола́евич Андре́ев</meta>
