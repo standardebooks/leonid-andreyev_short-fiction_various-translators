@@ -1,2 +1,16 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+blockquote header{
+	margin-bottom: 1em;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+#the-man-who-found-the-truth blockquote:last-of-type > p{
+	font-variant: small-caps;
+	text-align: center;
+}
