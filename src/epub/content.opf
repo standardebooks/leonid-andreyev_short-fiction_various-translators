@@ -40,10 +40,10 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONG_DESCRIPTION
-		]]></meta>
+		<dc:description id="description">A collection of Leonid Andreyev’s translated short stories, ordered by date of publication.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;The short stories and novellas collected here are all of the available public domain translations into English, in chronological order of their translated publication.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- The Red Laugh -->
 		<dc:source>https://archive.org/details/redlaughfragment00andr</dc:source>
@@ -143,17 +143,87 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-present.xhtml" id="a-present.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-story-which-will-never-be-finished.xhtml" id="a-story-which-will-never-be-finished.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-original.xhtml" id="an-original.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/at-the-roadside-station.xhtml" id="at-the-roadside-station.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bargamot-and-garaska.xhtml" id="bargamot-and-garaska.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ben-tobith.xhtml" id="ben-tobith.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dies-irae.xhtml" id="dies-irae.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/in-the-basement.xhtml" id="in-the-basement.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/judas-iscariot.xhtml" id="judas-iscariot.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/laughter.xhtml" id="laughter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lazarus.xhtml" id="lazarus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/life-of-father-vassily.xhtml" id="life-of-father-vassily.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/love-faith-and-hope.xhtml" id="love-faith-and-hope.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/men-may-rise-on-stepping-stones-of-their-dead-selves-to-higher-things.xhtml" id="men-may-rise-on-stepping-stones-of-their-dead-selves-to-higher-things.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-the-day-of-the-crucifixion.xhtml" id="on-the-day-of-the-crucifixion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/petka-at-the-bungalow.xhtml" id="petka-at-the-bungalow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/silence.xhtml" id="silence.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/snapper.xhtml" id="snapper.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-city.xhtml" id="the-city.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-crushed-flower.xhtml" id="the-crushed-flower.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dark.xhtml" id="the-dark.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-friend.xhtml" id="the-friend.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-giant.xhtml" id="the-giant.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lie.xhtml" id="the-lie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-little-angel.xhtml" id="the-little-angel.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-who-found-the-truth.xhtml" id="the-man-who-found-the-truth.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-marseillaise.xhtml" id="the-marseillaise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ocean.xhtml" id="the-ocean.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-red-laugh.xhtml" id="the-red-laugh.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-seven-who-were-hanged.xhtml" id="the-seven-who-were-hanged.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-spy.xhtml" id="the-spy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-story-of-the-snake.xhtml" id="the-story-of-the-snake.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tocsin.xhtml" id="the-tocsin.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/when-the-king-loses-his-head.xhtml" id="when-the-king-loses-his-head.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="the-red-laugh.xhtml"/>
+		<itemref idref="the-seven-who-were-hanged.xhtml"/>
+		<itemref idref="the-crushed-flower.xhtml"/>
+		<itemref idref="a-story-which-will-never-be-finished.xhtml"/>
+		<itemref idref="on-the-day-of-the-crucifixion.xhtml"/>
+		<itemref idref="love-faith-and-hope.xhtml"/>
+		<itemref idref="the-ocean.xhtml"/>
+		<itemref idref="the-man-who-found-the-truth.xhtml"/>
+		<itemref idref="the-little-angel.xhtml"/>
+		<itemref idref="at-the-roadside-station.xhtml"/>
+		<itemref idref="snapper.xhtml"/>
+		<itemref idref="the-lie.xhtml"/>
+		<itemref idref="an-original.xhtml"/>
+		<itemref idref="petka-at-the-bungalow.xhtml"/>
+		<itemref idref="silence.xhtml"/>
+		<itemref idref="laughter.xhtml"/>
+		<itemref idref="the-friend.xhtml"/>
+		<itemref idref="in-the-basement.xhtml"/>
+		<itemref idref="the-city.xhtml"/>
+		<itemref idref="the-tocsin.xhtml"/>
+		<itemref idref="bargamot-and-garaska.xhtml"/>
+		<itemref idref="men-may-rise-on-stepping-stones-of-their-dead-selves-to-higher-things.xhtml"/>
+		<itemref idref="the-spy.xhtml"/>
+		<itemref idref="a-present.xhtml"/>
+		<itemref idref="the-giant.xhtml"/>
+		<itemref idref="the-story-of-the-snake.xhtml"/>
+		<itemref idref="when-the-king-loses-his-head.xhtml"/>
+		<itemref idref="judas-iscariot.xhtml"/>
+		<itemref idref="lazarus.xhtml"/>
+		<itemref idref="life-of-father-vassily.xhtml"/>
+		<itemref idref="ben-tobith.xhtml"/>
+		<itemref idref="the-marseillaise.xhtml"/>
+		<itemref idref="dies-irae.xhtml"/>
+		<itemref idref="the-dark.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
