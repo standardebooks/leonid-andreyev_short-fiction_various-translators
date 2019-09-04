@@ -35,6 +35,20 @@ span[epub|type~="subtitle"]{
 	display: none;
 }
 
+[epub|type~="z3998:diary-entry"] header{
+	margin-bottom: 1em;
+	text-align: right;
+	font-style: italic;
+}
+
+[epub|type~="z3998:diary-entry"] header b{
+	font-style: normal;
+}
+
+[epub|type~="z3998:diary-entry"] footer{
+	font-style: italic;
+}
+
 #the-man-who-found-the-truth blockquote:last-of-type > p{
 	font-variant: small-caps;
 	text-align: center;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 780">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 840">
 	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Leonid Andreyev. Translated by Herman Bernstein, Alexandra Linden, L. A. Magnus, K. Walter, W. H. Lowe, The Russian Review, and Archibald J. Wolfe</title>
 	<style type="text/css">
 		text{
@@ -34,6 +34,6 @@
 	<text class="contributor" x="700" y="540">ALEXANDRA LINDEN, L. A. MAGNUS,</text>
 	<text class="contributor" x="700" y="600">K. WALTER, W. H. LOWE,</text>
 	<text class="contributor" x="700" y="660">THE RUSSIAN REVIEW,</text>
-	<text class="contributor" x="700" y="720">ARCHIBALD J. WOLFE</text>
-	<text class="contributor" x="700" y="780">AND JOHN COURNOS</text>
+	<text class="contributor" x="700" y="720">ARCHIBALD J. WOLFE,</text>
+	<text class="contributor" x="700" y="780">JOHN COURNOS AND R. S. TOWNSEND</text>
 </svg>

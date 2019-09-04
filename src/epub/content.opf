@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-russian-review_archibald-j-wolfe_john-cournos</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-russian-review_archibald-j-wolfe_john-cournos_r-s-townsend</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -60,6 +60,8 @@
 		<dc:source>https://archive.org/details/littleangelother00andr</dc:source>
 		<!-- A Present / The Giant / The Story of the Snake -->
 		<dc:source>https://catalog.hathitrust.org/Record/007908346</dc:source>
+		<!-- The Confessions of a Little Man During Great Days -->
+		<dc:source>https://archive.org/details/confessionsoflit00andr</dc:source>
 		<!-- When The King Loses His Head, and Other Stories -->
 		<dc:source>https://www.gutenberg.org/ebooks/49595</dc:source>
 		<dc:source>https://archive.org/details/kingloseshishead00andrrich</dc:source>
@@ -123,6 +125,12 @@
 		<meta property="display-seq" refines="#translator-8">8</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-9">R. S. Townsend</dc:contributor>
+		<meta property="file-as" refines="#translator-9">Townsend, R. S.</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-9">http://id.loc.gov/authorities/names/n93115501</meta>
+		<meta property="display-seq" refines="#translator-9">9</meta>
+		<meta property="role" refines="#translator-9" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
@@ -182,6 +190,7 @@
 		<item href="text/silence.xhtml" id="silence.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/snapper.xhtml" id="snapper.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-city.xhtml" id="the-city.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-confessions-of-a-little-man-during-great-days.xhtml" id="the-confessions-of-a-little-man-during-great-days.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-crushed-flower.xhtml" id="the-crushed-flower.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dark.xhtml" id="the-dark.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-friend.xhtml" id="the-friend.xhtml" media-type="application/xhtml+xml"/>
@@ -231,6 +240,7 @@
 		<itemref idref="a-present.xhtml"/>
 		<itemref idref="the-giant.xhtml"/>
 		<itemref idref="the-story-of-the-snake.xhtml"/>
+		<itemref idref="the-confessions-of-a-little-man-during-great-days.xhtml"/>
 		<itemref idref="when-the-king-loses-his-head.xhtml"/>
 		<itemref idref="judas-iscariot.xhtml"/>
 		<itemref idref="lazarus.xhtml"/>
