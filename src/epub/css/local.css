@@ -20,17 +20,20 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+[epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
@@ -49,7 +52,17 @@ span[epub|type~="subtitle"]{
 	font-style: italic;
 }
 
+.signature,
+[epub|type~="z3998:recipient"]{
+	font-variant: small-caps;
+}
+
 #the-man-who-found-the-truth blockquote:last-of-type > p{
 	font-variant: small-caps;
+	text-align: center;
+}
+
+#his-excellency-the-governor-3 [epub|type~="z3998:letter"]{
+	font-style: italic;
 	text-align: center;
 }

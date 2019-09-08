@@ -67,6 +67,8 @@
 		<!-- When The King Loses His Head, and Other Stories -->
 		<dc:source>https://www.gutenberg.org/ebooks/49595</dc:source>
 		<dc:source>https://archive.org/details/kingloseshishead00andrrich</dc:source>
+		<!-- His Excellency the Governor -->
+		<dc:source>https://archive.org/details/hisexcellencygov00andruoft</dc:source>
 		<!-- The Dark -->
 		<dc:source>https://www.gutenberg.org/ebooks/49594</dc:source>
 		<dc:source>https://archive.org/details/thedark00andr</dc:source>
@@ -133,6 +135,11 @@
 		<meta property="display-seq" refines="#translator-9">9</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-10">Maurice Magnus</dc:contributor>
+		<meta property="file-as" refines="#translator-10">Magnus, Maurice</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-10">http://id.loc.gov/authorities/names/n81075610</meta>
+		<meta property="display-seq" refines="#translator-10">10</meta>
+		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
@@ -179,6 +186,7 @@
 		<item href="text/dies-irae.xhtml" id="dies-irae.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/his-excellency-the-governor.xhtml" id="his-excellency-the-governor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-basement.xhtml" id="in-the-basement.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/judas-iscariot.xhtml" id="judas-iscariot.xhtml" media-type="application/xhtml+xml"/>
@@ -252,6 +260,7 @@
 		<itemref idref="ben-tobith.xhtml"/>
 		<itemref idref="the-marseillaise.xhtml"/>
 		<itemref idref="dies-irae.xhtml"/>
+		<itemref idref="his-excellency-the-governor.xhtml"/>
 		<itemref idref="the-dark.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>

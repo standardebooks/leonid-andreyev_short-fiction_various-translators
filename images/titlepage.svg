@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 840">
-	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Leonid Andreyev. Translated by Herman Bernstein, Alexandra Linden, L. A. Magnus, K. Walter, W. H. Lowe, The Russian Review, and Archibald J. Wolfe</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 900">
+	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Leonid Andreyev. Translated by Herman Bernstein, Alexandra Linden, L. A. Magnus, K. Walter, W. H. Lowe, The Russian Review, Archibald J. Wolfe, John Cournos, R. S. Townsend, and Maurice Magnus</title>
 	<style type="text/css">
 		text{
 			font-family: League Spartan;
@@ -35,5 +35,6 @@
 	<text class="contributor" x="700" y="600">K. WALTER, W. H. LOWE,</text>
 	<text class="contributor" x="700" y="660">THE RUSSIAN REVIEW,</text>
 	<text class="contributor" x="700" y="720">ARCHIBALD J. WOLFE,</text>
-	<text class="contributor" x="700" y="780">JOHN COURNOS AND R. S. TOWNSEND</text>
+	<text class="contributor" x="700" y="780">JOHN COURNOS, R. S. TOWNSEND,</text>
+	<text class="contributor" x="700" y="840">AND MAURICE MAGNUS</text>
 </svg>
