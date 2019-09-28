@@ -38,14 +38,26 @@ span[epub|type~="subtitle"]{
 	display: none;
 }
 
+[epub|type~="z3998:diary-entry"]{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:diary-entry"]:first-of-type{
+	margin-top: 0;
+}
+
 [epub|type~="z3998:diary-entry"] header{
-	margin-bottom: 1em;
+	margin-bottom: 0.5em;
 	text-align: right;
 	font-style: italic;
 }
 
 [epub|type~="z3998:diary-entry"] header b{
 	font-style: normal;
+}
+
+[epub|type~="z3998:diary-entry"] header + *{
+	margin-top: 0;
 }
 
 [epub|type~="z3998:diary-entry"] footer{
@@ -55,6 +67,10 @@ span[epub|type~="subtitle"]{
 .signature,
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
+}
+
+#the-confessions-of-a-little-man-during-great-days [epub|type~="z3998:chapter"]{
+	page-break-after: always;
 }
 
 #the-man-who-found-the-truth blockquote:last-of-type > p{
