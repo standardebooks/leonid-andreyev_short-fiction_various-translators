@@ -69,8 +69,6 @@
 		<dc:source>https://archive.org/details/kingloseshishead00andrrich</dc:source>
 		<!-- His Excellency the Governor -->
 		<dc:source>https://archive.org/details/hisexcellencygov00andruoft</dc:source>
-		<!-- And It Came to Pass That the King Was Dead -->
-		<dc:source>https://archive.org/details/anditcametopasst00andruoft</dc:source>
 		<!-- The Dark -->
 		<dc:source>https://www.gutenberg.org/ebooks/49594</dc:source>
 		<dc:source>https://archive.org/details/thedark00andr</dc:source>
@@ -181,7 +179,6 @@
 		<item href="text/a-present.xhtml" id="a-present.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-story-which-will-never-be-finished.xhtml" id="a-story-which-will-never-be-finished.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-original.xhtml" id="an-original.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/and-it-came-to-pass-that-the-king-was-dead.xhtml" id="and-it-came-to-pass-that-the-king-was-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/at-the-roadside-station.xhtml" id="at-the-roadside-station.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/bargamot-and-garaska.xhtml" id="bargamot-and-garaska.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -262,7 +259,6 @@
 		<itemref idref="the-marseillaise.xhtml"/>
 		<itemref idref="dies-irae.xhtml"/>
 		<itemref idref="his-excellency-the-governor.xhtml"/>
-		<itemref idref="and-it-came-to-pass-that-the-king-was-dead.xhtml"/>
 		<itemref idref="the-dark.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
