@@ -43,7 +43,7 @@
 		<dc:description id="description">A collection of Leonid Andreyev’s translated short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Leonid Andreyev was a Russian playwright and author of short stories and novellas, writing primarily in the first two decades of the 20th century. Matching the depression he suffered from an early age, his writing is always dark of tone with subjects including biblical parables, Russian life, eldritch horror and revolutionary fervour. &lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft was a reader of his work, and &lt;i&gt;The Seven Who Were Hanged&lt;/i&gt; (included here) has even been cited as direct inspiration for the assassination of Arch-Duke Ferdinand: the event that started the first World War. Originally a lawyer, his first published short story brought him to the attention of Maxim Gorky who not only became a firm friend but also championed Andreyev’s writing in his collections to great commercial acclaim.&lt;/p&gt;
-			&lt;p&gt;Widely translated into English during his life, this collection comprises the best individual translations of each of his short stories and novellas available in the public domain, presented in chronological order of their translated publication.&lt;/p&gt;
+			&lt;p&gt;Widely translated into English during his life, this collection comprises the best individual translations of each of his short stories and novellas available in the public domain, presented in chronological order of their original publication in Russian.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- The Red Laugh -->
@@ -224,43 +224,43 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
-		<itemref idref="the-red-laugh.xhtml"/>
-		<itemref idref="the-seven-who-were-hanged.xhtml"/>
-		<itemref idref="a-dilemma.xhtml"/>
-		<itemref idref="the-wall.xhtml"/>
-		<itemref idref="the-crushed-flower.xhtml"/>
-		<itemref idref="a-story-which-will-never-be-finished.xhtml"/>
-		<itemref idref="on-the-day-of-the-crucifixion.xhtml"/>
-		<itemref idref="love-faith-and-hope.xhtml"/>
-		<itemref idref="the-ocean.xhtml"/>
-		<itemref idref="the-man-who-found-the-truth.xhtml"/>
-		<itemref idref="the-little-angel.xhtml"/>
-		<itemref idref="at-the-roadside-station.xhtml"/>
-		<itemref idref="snapper.xhtml"/>
-		<itemref idref="the-lie.xhtml"/>
-		<itemref idref="an-original.xhtml"/>
-		<itemref idref="petka-at-the-bungalow.xhtml"/>
-		<itemref idref="silence.xhtml"/>
-		<itemref idref="laughter.xhtml"/>
-		<itemref idref="the-friend.xhtml"/>
-		<itemref idref="in-the-basement.xhtml"/>
-		<itemref idref="the-city.xhtml"/>
-		<itemref idref="the-tocsin.xhtml"/>
 		<itemref idref="bargamot-and-garaska.xhtml"/>
+		<itemref idref="the-little-angel.xhtml"/>
+		<itemref idref="petka-at-the-bungalow.xhtml"/>
+		<itemref idref="the-friend.xhtml"/>
+		<itemref idref="the-lie.xhtml"/>
+		<itemref idref="silence.xhtml"/>
 		<itemref idref="men-may-rise-on-stepping-stones-of-their-dead-selves-to-higher-things.xhtml"/>
-		<itemref idref="the-spy.xhtml"/>
+		<itemref idref="the-wall.xhtml"/>
+		<itemref idref="snapper.xhtml"/>
+		<itemref idref="laughter.xhtml"/>
+		<itemref idref="in-the-basement.xhtml"/>
+		<itemref idref="the-tocsin.xhtml"/>
 		<itemref idref="a-present.xhtml"/>
-		<itemref idref="the-giant.xhtml"/>
-		<itemref idref="the-story-of-the-snake.xhtml"/>
-		<itemref idref="the-confessions-of-a-little-man-during-great-days.xhtml"/>
-		<itemref idref="when-the-king-loses-his-head.xhtml"/>
-		<itemref idref="judas-iscariot.xhtml"/>
-		<itemref idref="lazarus.xhtml"/>
+		<itemref idref="a-dilemma.xhtml"/>
+		<itemref idref="an-original.xhtml"/>
+		<itemref idref="the-city.xhtml"/>
+		<itemref idref="on-the-day-of-the-crucifixion.xhtml"/>
+		<itemref idref="at-the-roadside-station.xhtml"/>
 		<itemref idref="life-of-father-vassily.xhtml"/>
 		<itemref idref="the-marseillaise.xhtml"/>
-		<itemref idref="dies-irae.xhtml"/>
+		<itemref idref="the-red-laugh.xhtml"/>
+		<itemref idref="the-spy.xhtml"/>
+		<itemref idref="when-the-king-loses-his-head.xhtml"/>
 		<itemref idref="his-excellency-the-governor.xhtml"/>
+		<itemref idref="lazarus.xhtml"/>
+		<itemref idref="judas-iscariot.xhtml"/>
 		<itemref idref="the-dark.xhtml"/>
+		<itemref idref="the-seven-who-were-hanged.xhtml"/>
+		<itemref idref="a-story-which-will-never-be-finished.xhtml"/>
+		<itemref idref="the-giant.xhtml"/>
+		<itemref idref="love-faith-and-hope.xhtml"/>
+		<itemref idref="the-man-who-found-the-truth.xhtml"/>
+		<itemref idref="the-story-of-the-snake.xhtml"/>
+		<itemref idref="dies-irae.xhtml"/>
+		<itemref idref="the-ocean.xhtml"/>
+		<itemref idref="the-crushed-flower.xhtml"/>
+		<itemref idref="the-confessions-of-a-little-man-during-great-days.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
