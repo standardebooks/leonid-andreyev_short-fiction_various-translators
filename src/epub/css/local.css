@@ -69,7 +69,7 @@ span[epub|type~="subtitle"]{
 	font-variant: small-caps;
 }
 
-#the-confessions-of-a-little-man-during-great-days [epub|type~="z3998:chapter"]{
+#the-confessions-of-a-little-man-during-great-days [epub|type~="chapter"]{
 	page-break-after: always;
 }
 
