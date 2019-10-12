@@ -42,7 +42,8 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Leonid Andreyev’s translated short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The short stories and novellas collected here are all of the available public domain translations into English, in chronological order of their translated publication.&lt;/p&gt;
+			&lt;p&gt;Leonid Andreyev was a Russian playwright and author of short stories and novellas, writing primarily in the first two decades of the 20th century. Matching the depression he suffered from an early age, his writing is always dark of tone with subjects including biblical parables, Russian life, eldritch horror and revolutionary fervour. &lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft was a reader of his work, and &lt;i&gt;The Seven Who Were Hanged&lt;/i&gt; (included here) has even been cited as direct inspiration for the assassination of Arch-Duke Ferdinand: the event that started the first World War. Originally a lawyer, his first published short story brought him to the attention of Maxim Gorky who not only became a firm friend but also championed Andreyev’s writing in his collections to great commercial acclaim.&lt;/p&gt;
+			&lt;p&gt;Widely translated into English during his life, this collection comprises the best individual translations of each of his short stories and novellas available in the public domain, presented in chronological order of their translated publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- The Red Laugh -->
