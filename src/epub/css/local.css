@@ -9,12 +9,6 @@ footer{
 	margin-top: 1em;
 }
 
-footer b{
-	display: block;
-	text-align: center;
-	margin-bottom: 1em;
-}
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
@@ -77,4 +71,10 @@ span[epub|type~="subtitle"]{
 #his-excellency-the-governor-4 [epub|type~="z3998:letter"]{
 	font-style: italic;
 	text-align: center;
+}
+
+#a-dilemma-4 b{
+	display: block;
+	text-align: center;
+	margin-bottom: 1em;
 }
