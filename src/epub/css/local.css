@@ -60,10 +60,6 @@ span[epub|type~="subtitle"]{
 	margin-top: 0;
 }
 
-[epub|type~="z3998:diary-entry"] footer{
-	font-style: italic;
-}
-
 .signature,
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
