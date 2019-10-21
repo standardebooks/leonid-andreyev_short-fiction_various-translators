@@ -63,7 +63,11 @@ span[epub|type~="subtitle"]{
 	page-break-after: always;
 }
 
-#the-man-who-found-the-truth blockquote:last-of-type > p{
+#the-man-who-found-the-truth-9 header{
+	font-variant: small-caps;
+}
+
+#the-man-who-found-the-truth-9 blockquote:last-of-type > p{
 	font-variant: small-caps;
 	text-align: center;
 }
