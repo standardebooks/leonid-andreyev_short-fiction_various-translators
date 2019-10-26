@@ -187,6 +187,8 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dies-irae.xhtml" id="dies-irae.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/his-excellency-the-governor.xhtml" id="his-excellency-the-governor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-basement.xhtml" id="in-the-basement.xhtml" media-type="application/xhtml+xml"/>
@@ -224,6 +226,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="foreword.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="bargamot-and-garaska.xhtml"/>
 		<itemref idref="the-little-angel.xhtml"/>
 		<itemref idref="petka-at-the-bungalow.xhtml"/>
