@@ -9,6 +9,10 @@ footer{
 	margin-top: 1em;
 }
 
+[epub|type~="foreword"] footer{
+	text-align: right;
+}
+
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
