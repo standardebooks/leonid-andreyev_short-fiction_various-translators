@@ -6,10 +6,4 @@
 			<reason>&lt;hr/&gt; signifies a thematic break here (i.e., no content in the chapter).</reason>
 		</ignore>
 	</file>
-	<file path="life-of-father-vassily.xhtml">
-		<ignore>
-			<code>t-002</code>
-			<reason>Matched quote already has internal punctuation.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
