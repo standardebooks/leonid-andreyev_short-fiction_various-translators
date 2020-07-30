@@ -64,7 +64,7 @@ span[epub|type~="subtitle"]{
 }
 
 #the-confessions-of-a-little-man-during-great-days [epub|type~="chapter"]{
-	page-break-after: always;
+	break-after: page;
 }
 
 #the-man-who-found-the-truth-9 header{
