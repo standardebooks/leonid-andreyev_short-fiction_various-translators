@@ -53,7 +53,7 @@ footer{
 	margin-top: 0;
 }
 
-.signature,
+[epub:type~="z3998:signature"],
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
 }
