@@ -7,10 +7,11 @@ blockquote header{
 
 footer{
 	margin-top: 1em;
+	text-align: right;
 }
 
-[epub|type~="foreword"] footer{
-	text-align: right;
+[epub|type~="z3998:letter"] footer{
+	text-align: left;
 }
 
 [epub|type~="z3998:song"] p,
