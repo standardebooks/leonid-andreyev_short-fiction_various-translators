@@ -8,9 +8,9 @@
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
-		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
-		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
-		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
@@ -94,7 +94,7 @@
 		<meta property="file-as" refines="#translator-2">Linden, Alexandra</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/no2009168663</meta>
 		<meta property="display-seq" refines="#translator-2">2</meta>
-		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">L. A. Magnus</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Magnus, L. A.</meta>
@@ -109,7 +109,7 @@
 		<meta property="se:name.person.full-name" refines="#translator-5">William Henry Lowe</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-5">http://id.loc.gov/authorities/names/n86050316</meta>
 		<meta property="display-seq" refines="#translator-5">5</meta>
-		<meta property="role" refines="#translator-5" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#translator-5" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-6">The Russian Review</dc:contributor>
 		<meta property="file-as" refines="#translator-6">Russian Review, The</meta>
@@ -120,20 +120,20 @@
 		<meta property="file-as" refines="#translator-7">Wolfe, Archibald J.</meta>
 		<meta property="display-seq" refines="#translator-7">7</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-7">http://id.loc.gov/authorities/names/no89017190</meta>
-		<meta property="role" refines="#translator-7" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#translator-7" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-8">John Cournos</dc:contributor>
 		<meta property="file-as" refines="#translator-8">Cournos, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">https://en.wikipedia.org/wiki/John_Cournos</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-8">http://id.loc.gov/authorities/names/n82067305</meta>
 		<meta property="display-seq" refines="#translator-8">8</meta>
-		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#translator-8" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-9">R. S. Townsend</dc:contributor>
 		<meta property="file-as" refines="#translator-9">Townsend, R. S.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-9">http://id.loc.gov/authorities/names/n93115501</meta>
 		<meta property="display-seq" refines="#translator-9">9</meta>
-		<meta property="role" refines="#translator-9" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#translator-9" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-10">Maurice Magnus</dc:contributor>
 		<meta property="file-as" refines="#translator-10">Magnus, Maurice</meta>
@@ -161,12 +161,12 @@
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Michael Atkinson</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Atkinson, Michael</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
