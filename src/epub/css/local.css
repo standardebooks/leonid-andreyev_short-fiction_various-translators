@@ -41,9 +41,9 @@ section[epub|type~="z3998:diary-entry"]:first-of-type{
 }
 
 [epub|type~="z3998:diary-entry"] header{
+	font-style: italic;
 	margin-bottom: 0.5em;
 	text-align: right;
-	font-style: italic;
 }
 
 [epub|type~="z3998:diary-entry"] header b{
@@ -89,6 +89,6 @@ section[epub|type~="z3998:diary-entry"]:first-of-type{
 
 #a-dilemma-4 b{
 	display: block;
-	text-align: center;
 	margin-bottom: 1em;
+	text-align: center;
 }
