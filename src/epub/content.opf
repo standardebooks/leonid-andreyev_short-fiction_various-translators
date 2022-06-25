@@ -39,6 +39,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Leonid Andreyev’s translated short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/leonid-andreyev"&gt;Leonid Andreyev&lt;/a&gt; was a Russian playwright and author of short stories and novellas, writing primarily in the first two decades of the 20th century. Matching the depression he suffered from an early age, his writing is always dark of tone with subjects including biblical parables, Russian life, eldritch horror and revolutionary fervour. &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;&lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft&lt;/a&gt; was a reader of his work, and &lt;i&gt;The Seven Who Were Hanged&lt;/i&gt; (included here) has even been cited as direct inspiration for the assassination of Arch-Duke Ferdinand: the event that started the first World War. Originally a lawyer, his first published short story brought him to the attention of Maxim Gorky who not only became a firm friend but also championed Andreyev’s writing in his collections to great commercial acclaim.&lt;/p&gt;
