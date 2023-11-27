@@ -74,7 +74,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/49594</dc:source>
 		<dc:source>https://archive.org/details/thedark00andr</dc:source>
 		<meta property="se:production-notes">“The Dark” has a strange style in the source, with French quote marks and extra tracking for emphasis. This has been reverted to standard quote marks and italics. The source also lacks chapter headers of 4 and 5, a mistake (?) that has been replicated here due to a lack of other sources.</meta>
-		<meta property="se:word-count">343033</meta>
+		<meta property="se:word-count">343032</meta>
 		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leonid-andreyev_short-fiction_herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-rus</meta>
 		<dc:creator id="author">Leonid Andreyev</dc:creator>
