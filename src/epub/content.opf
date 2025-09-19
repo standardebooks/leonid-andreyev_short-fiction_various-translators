@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-russian-review_archibald-j-wolfe_john-cournos_r-s-townsend_maurice-magnus</dc:identifier>
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/various-translators</dc:identifier>
 		<dc:date>2019-10-21T21:19:38Z</dc:date>
 		<meta property="dcterms:modified">2019-10-21T21:19:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -77,7 +77,7 @@
 		<meta property="se:production-notes">“The Dark” has a strange style in the source, with French quote marks and extra tracking for emphasis. This has been reverted to standard quote marks and italics. The source also lacks chapter headers of 4 and 5, a mistake (?) that has been replicated here due to a lack of other sources.</meta>
 		<meta property="se:word-count">343032</meta>
 		<meta property="se:reading-ease.flesch">71.14</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/leonid-andreyev_short-fiction_herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-rus</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/leonid-andreyev_short-fiction_various-translators</meta>
 		<dc:creator id="author">Leonid Andreyev</dc:creator>
 		<meta property="file-as" refines="#author">Andreyev, Leonid</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Леони́д Никола́евич Андре́ев</meta>
