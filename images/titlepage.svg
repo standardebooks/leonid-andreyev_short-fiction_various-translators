@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 900">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 890">
 	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Leonid Andreyev. Translated by Herman Bernstein, Alexandra Linden, L. A. Magnus, K. Walter, W. H. Lowe, The Russian Review, Archibald J. Wolfe, John Cournos, R. S. Townsend, and Maurice Magnus</title>
 	<style type="text/css">
 		text{
@@ -29,12 +29,11 @@
 	</style>
 	<text class="title" x="700" y="130">SHORT FICTION</text>
 	<text class="author" x="700" y="290">LEONID ANDREYEV</text>
-	<text class="contributor-descriptor" x="700" y="420">translated by</text>
-	<text class="contributor" x="700" y="480">HERMAN BERNSTEIN,</text>
-	<text class="contributor" x="700" y="540">ALEXANDRA LINDEN, L. A. MAGNUS,</text>
-	<text class="contributor" x="700" y="600">K. WALTER, W. H. LOWE,</text>
-	<text class="contributor" x="700" y="660">THE RUSSIAN REVIEW,</text>
-	<text class="contributor" x="700" y="720">ARCHIBALD J. WOLFE,</text>
-	<text class="contributor" x="700" y="780">JOHN COURNOS, R. S. TOWNSEND,</text>
-	<text class="contributor" x="700" y="840">AND MAURICE MAGNUS</text>
+	<text class="contributor-descriptor" x="700" y="480">translated by</text>
+	<text class="contributor" x="700" y="540">HERMAN BERNSTEIN,</text>
+	<text class="contributor" x="700" y="600">ALEXANDRA LINDEN,</text>
+	<text class="contributor" x="700" y="660">L. A. MAGNUS, K. WALTER,</text>
+	<text class="contributor" x="700" y="720">W. H. LOWE, THE RUSSIAN REVIEW,</text>
+	<text class="contributor" x="700" y="780">ARCHIBALD J. WOLFE, JOHN COURNOS,</text>
+	<text class="contributor" x="700" y="840">R. S. TOWNSEND, AND MAURICE MAGNUS</text>
 </svg>
