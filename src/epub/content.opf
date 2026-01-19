@@ -74,6 +74,8 @@
 		<!-- The Dark -->
 		<dc:source>https://www.gutenberg.org/ebooks/49594</dc:source>
 		<dc:source>https://archive.org/details/thedark00andr</dc:source>
+		<!-- A Grand Slam (Argosy, Dec 1927) -->
+		<dc:source>https://catalog.hathitrust.org/Record/006791014</dc:source>
 		<meta property="se:production-notes">“The Dark” has a strange style in the source, with French quote marks and extra tracking for emphasis. This has been reverted to standard quote marks and italics. The source also lacks chapter headers of 4 and 5, a mistake (?) that has been replicated here due to a lack of other sources.</meta>
 		<meta property="se:word-count">343032</meta>
 		<meta property="se:reading-ease.flesch">71.14</meta>
@@ -141,6 +143,11 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-10">http://id.loc.gov/authorities/names/n81075610</meta>
 		<meta property="display-seq" refines="#translator-10">10</meta>
 		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-11">The Argosy</dc:contributor>
+		<meta property="file-as" refines="#translator-11">Argosy, The</meta>
+		<meta property="display-seq" refines="#translator-11">11</meta>
+		<meta property="role" refines="#translator-11" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-11" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Edvard Munch</dc:contributor>
 		<meta property="file-as" refines="#artist">Munch, Edvard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edvard_Munch</meta>
@@ -181,6 +188,7 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-dilemma.xhtml" id="a-dilemma.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-grand-slam.xhtml" id="a-grand-slam.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-present.xhtml" id="a-present.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-story-which-will-never-be-finished.xhtml" id="a-story-which-will-never-be-finished.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-original.xhtml" id="an-original.xhtml" media-type="application/xhtml+xml"/>
@@ -268,6 +276,7 @@
 		<itemref idref="the-ocean.xhtml"/>
 		<itemref idref="the-crushed-flower.xhtml"/>
 		<itemref idref="the-confessions-of-a-little-man-during-great-days.xhtml"/>
+		<itemref idref="a-grand-slam.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
