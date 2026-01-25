@@ -54,7 +54,7 @@
 		<dc:source>https://archive.org/details/cu31924026685812</dc:source>
 		<!-- A Dilemma -->
 		<dc:source>https://archive.org/details/adilemmaastorym00andrgoog</dc:source>
-		<!-- The Wall -->
+		<!-- Silence, and Other Stories -->
 		<dc:source>https://archive.org/details/silenceotherstor00andruoft</dc:source>
 		<!-- The Crushed Flower, and Other Stories -->
 		<dc:source>https://www.gutenberg.org/ebooks/5779</dc:source>
@@ -243,9 +243,11 @@
 		<itemref idref="the-little-angel.xhtml"/>
 		<itemref idref="petka-at-the-bungalow.xhtml"/>
 		<itemref idref="the-friend.xhtml"/>
-		<itemref idref="the-lie.xhtml"/>
+		<itemref idref="a-grand-slam.xhtml"/>
+		<itemref idref="love-faith-and-hope.xhtml"/>
 		<itemref idref="silence.xhtml"/>
 		<itemref idref="men-may-rise-on-stepping-stones-of-their-dead-selves-to-higher-things.xhtml"/>
+		<itemref idref="the-lie.xhtml"/>
 		<itemref idref="the-wall.xhtml"/>
 		<itemref idref="snapper.xhtml"/>
 		<itemref idref="laughter.xhtml"/>
@@ -254,29 +256,27 @@
 		<itemref idref="a-present.xhtml"/>
 		<itemref idref="a-dilemma.xhtml"/>
 		<itemref idref="an-original.xhtml"/>
-		<itemref idref="the-city.xhtml"/>
 		<itemref idref="on-the-day-of-the-crucifixion.xhtml"/>
 		<itemref idref="at-the-roadside-station.xhtml"/>
 		<itemref idref="life-of-father-vassily.xhtml"/>
-		<itemref idref="the-marseillaise.xhtml"/>
 		<itemref idref="the-red-laugh.xhtml"/>
 		<itemref idref="the-spy.xhtml"/>
+		<itemref idref="the-marseillaise.xhtml"/>
+		<itemref idref="the-city.xhtml"/>
 		<itemref idref="when-the-king-loses-his-head.xhtml"/>
 		<itemref idref="his-excellency-the-governor.xhtml"/>
 		<itemref idref="lazarus.xhtml"/>
 		<itemref idref="judas-iscariot.xhtml"/>
+		<itemref idref="a-story-which-will-never-be-finished.xhtml"/>
 		<itemref idref="the-dark.xhtml"/>
 		<itemref idref="the-seven-who-were-hanged.xhtml"/>
-		<itemref idref="a-story-which-will-never-be-finished.xhtml"/>
 		<itemref idref="the-giant.xhtml"/>
-		<itemref idref="love-faith-and-hope.xhtml"/>
 		<itemref idref="the-man-who-found-the-truth.xhtml"/>
 		<itemref idref="the-story-of-the-snake.xhtml"/>
 		<itemref idref="dies-irae.xhtml"/>
 		<itemref idref="the-ocean.xhtml"/>
 		<itemref idref="the-crushed-flower.xhtml"/>
 		<itemref idref="the-confessions-of-a-little-man-during-great-days.xhtml"/>
-		<itemref idref="a-grand-slam.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
