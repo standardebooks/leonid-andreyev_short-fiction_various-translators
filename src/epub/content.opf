@@ -91,37 +91,30 @@
 		<meta property="file-as" refines="#translator-1">Bernstein, Herman</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Herman_Bernstein</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/no00070836</meta>
-		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Alexandra Linden</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Linden, Alexandra</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/no2009168663</meta>
-		<meta property="display-seq" refines="#translator-2">2</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">L. A. Magnus</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Magnus, L. A.</meta>
-		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">K. Walter</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Walter, K.</meta>
-		<meta property="display-seq" refines="#translator-4">4</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">W. H. Lowe</dc:contributor>
 		<meta property="file-as" refines="#translator-5">Lowe, W. H.</meta>
 		<meta property="se:name.person.full-name" refines="#translator-5">William Henry Lowe</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-5">http://id.loc.gov/authorities/names/n86050316</meta>
-		<meta property="display-seq" refines="#translator-5">5</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-6">The Russian Review</dc:contributor>
 		<meta property="file-as" refines="#translator-6">Russian Review, The</meta>
-		<meta property="display-seq" refines="#translator-6">6</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-6">https://en.wikipedia.org/wiki/The_Russian_Review</meta>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-7">Archibald J. Wolfe</dc:contributor>
 		<meta property="file-as" refines="#translator-7">Wolfe, Archibald J.</meta>
-		<meta property="display-seq" refines="#translator-7">7</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-7">http://id.loc.gov/authorities/names/no89017190</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
@@ -129,23 +122,19 @@
 		<meta property="file-as" refines="#translator-8">Cournos, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">https://en.wikipedia.org/wiki/John_Cournos</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-8">http://id.loc.gov/authorities/names/n82067305</meta>
-		<meta property="display-seq" refines="#translator-8">8</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-9">R. S. Townsend</dc:contributor>
 		<meta property="file-as" refines="#translator-9">Townsend, R. S.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-9">http://id.loc.gov/authorities/names/n93115501</meta>
-		<meta property="display-seq" refines="#translator-9">9</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-10">Maurice Magnus</dc:contributor>
 		<meta property="file-as" refines="#translator-10">Magnus, Maurice</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-10">http://id.loc.gov/authorities/names/n81075610</meta>
-		<meta property="display-seq" refines="#translator-10">10</meta>
 		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-11">The Argosy</dc:contributor>
 		<meta property="file-as" refines="#translator-11">Argosy, The</meta>
-		<meta property="display-seq" refines="#translator-11">11</meta>
 		<meta property="role" refines="#translator-11" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-11" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Edvard Munch</dc:contributor>
