@@ -2,14 +2,17 @@
 <se-lint-ignore>
 	<file path="dies-irae.xhtml">
 		<ignore code="s-012">
+			<line>124</line>
 			<reason>&lt;hr/&gt; signifies a thematic break here (i.e., no content in the chapter).</reason>
 		</ignore>
 	</file>
 	<file path="the-man-who-found-the-truth.xhtml">
 		<ignore code="c-017">
+			<line>95</line>
 			<reason>Postscript is part of prose and does not require special formatting.</reason>
 		</ignore>
 		<ignore code="c-018">
+			<line>95</line>
 			<reason>Postscript is part of prose and does not require special formatting.</reason>
 		</ignore>
 	</file>
