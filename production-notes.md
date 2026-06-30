@@ -1,0 +1,1 @@
+“The Dark” has a strange style in the source, with French quote marks and extra tracking for emphasis. This has been reverted to standard quote marks and italics. The source also lacks chapter headers of 4 and 5, a mistake (?) that has been replicated here due to a lack of other sources.

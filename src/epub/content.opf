@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/various-translators</dc:identifier>
 		<dc:date>2019-10-21T21:19:38Z</dc:date>
 		<meta property="dcterms:modified">2019-10-21T21:19:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -38,9 +39,9 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">Fiction</meta>
-		<meta property="se:subject">Shorts</meta>
-		<meta property="se:is-a-collection">true</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<meta property="schema:genre">Shorts</meta>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<dc:description id="description">A collection of Leonid Andreyev’s translated short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/leonid-andreyev"&gt;Leonid Andreyev&lt;/a&gt; was a Russian playwright and author of short stories and novellas, writing primarily in the first two decades of the 20th century. Matching the depression he suffered from an early age, his writing is always dark of tone with subjects including biblical parables, Russian life, eldritch horror and revolutionary fervour. &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;&lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft&lt;/a&gt; was a reader of his work, and &lt;i&gt;The Seven Who Were Hanged&lt;/i&gt; (included here) has even been cited as direct inspiration for the assassination of Arch-Duke Ferdinand: the event that started the first World War. Originally a lawyer, his first published short story brought him to the attention of Maxim Gorky who not only became a firm friend but also championed Andreyev’s writing in his collections to great commercial acclaim.&lt;/p&gt;
@@ -76,25 +77,26 @@
 		<dc:source>https://archive.org/details/thedark00andr</dc:source>
 		<!-- A Grand Slam (Argosy, Dec 1927) -->
 		<dc:source>https://catalog.hathitrust.org/Record/006791014</dc:source>
-		<meta property="se:production-notes">“The Dark” has a strange style in the source, with French quote marks and extra tracking for emphasis. This has been reverted to standard quote marks and italics. The source also lacks chapter headers of 4 and 5, a mistake (?) that has been replicated here due to a lack of other sources.</meta>
-		<meta property="se:word-count">344268</meta>
-		<meta property="se:reading-ease.flesch">71.14</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/leonid-andreyev_short-fiction_various-translators</meta>
+		<meta property="schema:wordCount">344268</meta>
+		<meta property="schema:educationalLevel">71.14</meta>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/leonid-andreyev_short-fiction_various-translators" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Leonid Andreyev</dc:creator>
 		<meta property="file-as" refines="#author">Andreyev, Leonid</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Леони́д Никола́евич Андре́ев</meta>
-		<meta property="se:name.person.full-name" refines="#author">Leonid Nikolaievich Andreyev</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Leonid_Andreyev</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80040433</meta>
+		<meta property="schema:alternateName" refines="#author">Leonid Nikolaievich Andreyev</meta>
+		<link href="https://en.wikipedia.org/wiki/Leonid_Andreyev" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n80040433.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Herman Bernstein</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Bernstein, Herman</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Herman_Bernstein</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/no00070836</meta>
+		<link href="https://en.wikipedia.org/wiki/Herman_Bernstein" refines="#translator-1" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no00070836.html" refines="#translator-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Alexandra Linden</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Linden, Alexandra</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/no2009168663</meta>
+		<link href="https://id.loc.gov/authorities/names/no2009168663.html" refines="#translator-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">L. A. Magnus</dc:contributor>
@@ -105,33 +107,33 @@
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">W. H. Lowe</dc:contributor>
 		<meta property="file-as" refines="#translator-5">Lowe, W. H.</meta>
-		<meta property="se:name.person.full-name" refines="#translator-5">William Henry Lowe</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-5">http://id.loc.gov/authorities/names/n86050316</meta>
+		<meta property="schema:alternateName" refines="#translator-5">William Henry Lowe</meta>
+		<link href="https://id.loc.gov/authorities/names/n86050316.html" refines="#translator-5" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-6">The Russian Review</dc:contributor>
 		<meta property="file-as" refines="#translator-6">Russian Review, The</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-6">https://en.wikipedia.org/wiki/The_Russian_Review</meta>
+		<link href="https://en.wikipedia.org/wiki/The_Russian_Review" refines="#translator-6" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-7">Archibald J. Wolfe</dc:contributor>
 		<meta property="file-as" refines="#translator-7">Wolfe, Archibald J.</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-7">http://id.loc.gov/authorities/names/no89017190</meta>
+		<link href="https://id.loc.gov/authorities/names/no89017190.html" refines="#translator-7" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-8">John Cournos</dc:contributor>
 		<meta property="file-as" refines="#translator-8">Cournos, John</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">https://en.wikipedia.org/wiki/John_Cournos</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-8">http://id.loc.gov/authorities/names/n82067305</meta>
+		<link href="https://en.wikipedia.org/wiki/John_Cournos" refines="#translator-8" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n82067305.html" refines="#translator-8" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-9">R. S. Townsend</dc:contributor>
 		<meta property="file-as" refines="#translator-9">Townsend, R. S.</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-9">http://id.loc.gov/authorities/names/n93115501</meta>
+		<link href="https://id.loc.gov/authorities/names/n93115501.html" refines="#translator-9" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-10">Maurice Magnus</dc:contributor>
 		<meta property="file-as" refines="#translator-10">Magnus, Maurice</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-10">http://id.loc.gov/authorities/names/n81075610</meta>
+		<link href="https://id.loc.gov/authorities/names/n81075610.html" refines="#translator-10" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-11">The Argosy</dc:contributor>
 		<meta property="file-as" refines="#translator-11">Argosy, The</meta>
@@ -139,8 +141,8 @@
 		<meta property="role" refines="#translator-11" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Edvard Munch</dc:contributor>
 		<meta property="file-as" refines="#artist">Munch, Edvard</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edvard_Munch</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79006348</meta>
+		<link href="https://en.wikipedia.org/wiki/Edvard_Munch" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79006348.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Eric Eldred</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Eldred, Eric</meta>
@@ -150,14 +152,14 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
-		<meta property="se:url.authority.nacoaf" refines="#transcriber-3">http://id.loc.gov/authorities/names/no2011017869</meta>
+		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-3" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Marc D’Hooghe</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
+		<link href="https://www.robinwhittleton.com/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
