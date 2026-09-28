@@ -84,7 +84,7 @@
 		<link href="https://github.com/standardebooks/leonid-andreyev_short-fiction_various-translators" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Leonid Andreyev</dc:creator>
 		<meta property="file-as" refines="#author">Andreyev, Leonid</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ru">Леони́д Никола́евич Андре́ев</meta>
+		<meta property="alternate-script" refines="#author">Леони́д Никола́евич Андре́ев</meta>
 		<meta property="schema:alternateName" refines="#author">Leonid Nikolaievich Andreyev</meta>
 		<link href="https://en.wikipedia.org/wiki/Leonid_Andreyev" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80040433.html" refines="#author" rel="schema:sameAs"/>
