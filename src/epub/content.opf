@@ -101,6 +101,7 @@
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">L. A. Magnus</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Magnus, L. A.</meta>
+		<link href="https://en.wikipedia.org/wiki/Leonard_Arthur_Magnus" refines="#translator-3" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">K. Walter</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Walter, K.</meta>
@@ -133,6 +134,7 @@
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-10">Maurice Magnus</dc:contributor>
 		<meta property="file-as" refines="#translator-10">Magnus, Maurice</meta>
+		<link href="https://en.wikipedia.org/wiki/Maurice_Magnus" refines="#translator-10" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81075610.html" refines="#translator-10" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-11">The Argosy</dc:contributor>
