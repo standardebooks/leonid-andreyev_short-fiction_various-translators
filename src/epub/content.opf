@@ -105,6 +105,8 @@
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">K. Walter</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Walter, K.</meta>
+		<meta property="schema:alternateName" refines="#translator-4">Karl Walter</meta>
+		<link href="https://id.loc.gov/authorities/names/no2021027003.html" refines="#translator-4" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">W. H. Lowe</dc:contributor>
 		<meta property="file-as" refines="#translator-5">Lowe, W. H.</meta>
@@ -118,6 +120,7 @@
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-7">Archibald J. Wolfe</dc:contributor>
 		<meta property="file-as" refines="#translator-7">Wolfe, Archibald J.</meta>
+		<meta property="schema:alternateName" refines="#translator-7">Archibald John Wolfe</meta>
 		<link href="https://id.loc.gov/authorities/names/no89017190.html" refines="#translator-7" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
