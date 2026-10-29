@@ -132,6 +132,7 @@
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-9">R. S. Townsend</dc:contributor>
 		<meta property="file-as" refines="#translator-9">Townsend, R. S.</meta>
+		<meta property="schema:alternateName" refines="#translator-9">Rochelle Slavyanskaia Townsend</meta>
 		<link href="https://id.loc.gov/authorities/names/n93115501.html" refines="#translator-9" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
@@ -158,6 +159,7 @@
 		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-3" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Marc D’Hooghe</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">D’Hooghe, Marc</meta>
@@ -174,6 +176,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="producer-2">Michael Atkinson</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Atkinson, Michael</meta>
+		<link href="https://github.com/michael-77" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
